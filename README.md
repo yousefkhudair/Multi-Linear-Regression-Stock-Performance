@@ -8,7 +8,7 @@ Overview:  Dataset: Stock portfolio performance (all periods);  Variables: Respo
 
  ![](images/figure1.1.png)
 
-	(Figure 1.1)
+(Figure 1.1)
  
 i. State the fitted regression equation:  y1= .18815 + (-0.08026)x1+ (-0.09603)x2+ (0.07250)x3
 
