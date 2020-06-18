@@ -6,7 +6,7 @@ Data set: https://archive.ics.uci.edu/ml/datasets/Stock+portfolio+performance
 
 Overview:  Dataset: Stock portfolio performance (all periods);  Variables: Response (y1)= Annual Return; Predictors(x1,x2,x3) = Large Market Value, Total Risk, Large S/P; respectively 
 
- (Figure 2.1) IMAGE HERE
+ (Figure 2.1) ![](images/figure1.1.png)
  
 i. State the fitted regression equation:  y1= .18815 + (-0.08026)x1+ (-0.09603)x2+ (0.07250)x3
 
