@@ -19,6 +19,7 @@ ii. Interpret the regression coefficients:
 	 0.07250 is the effect Large Return Rate in the last quarter has on the Total Risk
  
 ![](images/figure1.2.png)
+
 (Figure 1.2)
 
 Above is a table showing the Model Assumptions of Multiple Linear Regression. The red line in the Residuals vs fitted plot is fairly straight suggesting that the linearity assumption. For the Normal Q-Q plot we can see that the data is fairly normal, Scale-Location shows a decreasing variance.
@@ -27,6 +28,7 @@ iii. ) Produce an ANOVA table. Report , SST,SSR, and SSE, and their correspondin
 ANOVA Table:
 
 ![](images/figure1.3.png)
+
 (Figure 1.3)
 
 SSE = 0.02235; SSR = 0.025841; SST= (SSE+SSR)= 0.048191; DF: 3 & 59: Given from the Analysis of Variance Table
@@ -39,6 +41,7 @@ Conclusion: Given that the p-value is extremely small we conclude that we can re
 v. ) Test whether x3 is helpful, given that x1 and x2 are in the model. State the hypotheses, the value of  t-test statistic, p-value, and your conclusion. 
 
 ![](images/figure1.4.png)
+
 (Figure 1.4)
 
 Null Hypothesis: No significant difference in SSE of the original and reduced model 
