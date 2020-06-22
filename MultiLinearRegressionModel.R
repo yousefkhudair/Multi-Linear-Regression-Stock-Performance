@@ -78,28 +78,3 @@ summary(mod2)
 # ANOVA
 anova(mod2)
 anova(update(mod2,~1),mod2)
-
-
-########### Model 3 ############
-
-allperiods
-
-attributes(allperiods)
-
-
-### Response Variable Defined ####
-
-y1= allperiods$`Annual Return...8`
-
-full.model <- lm(y1~., data = allperiods[,-c(3)]) ### Removing the response variable from the data set ###
-summary(full.model)
-
-### Stepwise regression model with respect to forwards and backwards selection ###
-
-
-step.model <- stepAIC(full.model, direction = "both")
-summary(step.model)
-step.model
-
-
-
