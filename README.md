@@ -1,6 +1,6 @@
 # Multi-Linear-Regression-Stock-Performance
 
-Applying Multi-Linear Regession Models (ANOVA and Stepwise) using R/R-Studio and a dataset provided by UC Irvine Machine Learning Repository. Data repository can be find in the link below. 
+Applying Multi-Linear Regession Models and ANOVA using R/R-Studio and a dataset provided by UC Irvine Machine Learning Repository. Data repository can be find in the link below. 
 
 Data set: https://archive.ics.uci.edu/ml/datasets/Stock+portfolio+performance
 
