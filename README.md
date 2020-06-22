@@ -37,7 +37,8 @@ iv. ) Perform an F test of overall linear relationship. State the hypotheses, th
 
 P-value: 4.531e-08; F test statistic: 2.760767
 
-Conclusion: Given that the p-value is extremely small we conclude that we can reject the null Hypothesis and that one more slope terms is non zero
+Conclusion: Given that the p-value is extremely small we conclude that we can reject the null Hypothesis and that one more slope terms is non zero.
+
 v. ) Test whether x3 is helpful, given that x1 and x2 are in the model. State the hypotheses, the value of  t-test statistic, p-value, and your conclusion. 
 
 ![](images/figure1.4.png)
